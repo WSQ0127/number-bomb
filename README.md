@@ -1,4 +1,4 @@
 # number-bomb
-**Chinese** **12** years old kid ~~Very boring~~ write.
+A **12** **year** old in **China** wrote it ~~very bored~~.
 
 My email:wsq20120127@163.com
